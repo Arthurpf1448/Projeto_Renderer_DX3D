@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\arthu\source\repos\projeto_sistemas_multimidia\projeto_sistemas_multimidia\main.cpp(409,58): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+  projeto_sistemas_multimidia.vcxproj -> C:\Users\arthu\source\repos\projeto_sistemas_multimidia\x64\Debug\projeto_sistemas_multimidia.exe
