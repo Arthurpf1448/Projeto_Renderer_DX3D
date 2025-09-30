@@ -1,6 +1,0 @@
-﻿  main.cpp
-C:\Users\arthu\source\repos\dx11\dx11\main.cpp(53,26): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
-C:\Users\arthu\source\repos\dx11\dx11\main.cpp(53,44): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
-C:\Users\arthu\source\repos\dx11\dx11\main.cpp(53,62): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
-C:\Users\arthu\source\repos\dx11\dx11\main.cpp(65,13): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
-  dx11.vcxproj -> C:\Users\arthu\source\repos\dx11\x64\Debug\dx11.exe
